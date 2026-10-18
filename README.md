@@ -4,13 +4,13 @@ Estudante de Engenharia de Software focado em desenvolvimento de software, arqui
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 - **Linguagens:** HTML, CSS, Python, JavaScript, SQL
 - **Bancos de Dados:** Modelagem de SGBD, MySQL
 - **Ferramentas:** Git, GitHub, VS Code
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=andremv1808-hue&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
@@ -19,7 +19,7 @@ Estudante de Engenharia de Software focado em desenvolvimento de software, arqui
 
 ---
 
-### 📬 Onde me encontrar
+###  Onde me encontrar
 
 - **LinkedIn:** [https://www.linkedin.com/in/andré-marschal-vieira/](https://www.linkedin.com/in/andré-marschal-vieira/)
 - **E-mail:** andremv1808@gmail.com
